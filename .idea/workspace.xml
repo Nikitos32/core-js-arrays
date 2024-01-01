@@ -2,8 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4195242a-7c56-455d-8190-d5022a218e40" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.eslintrc.js" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintrc.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.prettierrc" beforeDir="false" afterPath="$PROJECT_DIR$/.prettierrc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/arrays-tasks.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/arrays-tasks.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/arrays-tests.js" beforeDir="false" afterPath="$PROJECT_DIR$/test/arrays-tests.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/mocha.opts" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +52,8 @@
       <option name="presentableId" value="Default" />
       <updated>1703848501548</updated>
       <workItem from="1703848503373" duration="199000" />
-      <workItem from="1703848956158" duration="28222000" />
+      <workItem from="1703848956158" duration="28532000" />
+      <workItem from="1704124529960" duration="19215000" />
     </task>
     <servers />
   </component>
@@ -68,8 +76,7 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/test/arrays-tests.js</url>
-          <line>741</line>
-          <properties lambdaOrdinal="-1" />
+          <line>1095</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
       </breakpoints>
